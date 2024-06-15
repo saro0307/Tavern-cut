@@ -115,4 +115,4 @@ This project is licensed under the Apache-2.0 license. See the [LICENSE](LICENSE
 - SNS College of Engineering, Coimbatore, Tamil Nadu, India
 - All contributors and supporters of the project
 
-For more details, refer to the project report available [here](https://www.ijsart.com) (Volume 10 Issue 5 – MAY 2024).
+For more details, refer to the project report available [here](taverncutpaper.pdf) (Volume 10 Issue 5 – MAY 2024).
