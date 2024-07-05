@@ -13,7 +13,7 @@ Tavern Cut is an advanced cybersecurity application that integrates a Turing Tes
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/tavern-cut.git
+   git clone https://github.com/saro0307/tavern-cut.git
    cd tavern-cut
    ```
 
